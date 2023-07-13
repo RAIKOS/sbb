@@ -9,6 +9,7 @@ public class GitController {
 	public static void main(String[] args) {
 		
 		String git = "";
+		String token = "";
 		
 		SpringApplication.run(SbbApplication.class, args);
 	}
