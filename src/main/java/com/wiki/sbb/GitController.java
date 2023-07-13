@@ -7,11 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitController {
 
 	public static void main(String[] args) {
-		
-		String git = "푸시";
-		String token = "이클립스";
-		
-		
 		SpringApplication.run(SbbApplication.class, args);
 	}
 
