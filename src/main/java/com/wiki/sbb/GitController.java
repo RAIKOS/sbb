@@ -10,6 +10,7 @@ public class GitController {
 		
 		String git = "된건가";
 		String token = "모르겠네";
+		String token1 = "에러는 왜나냐";
 		
 		SpringApplication.run(SbbApplication.class, args);
 	}
