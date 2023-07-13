@@ -13,6 +13,8 @@ public class HelloLombok {
     public static void main(String[] args) {
     	HelloLombok helloLombok = new HelloLombok(5, "aaaaaaaaaa");
     	
+    	
+    	
         System.out.println(helloLombok.getHello());
         System.out.println(helloLombok.getLombok());
     }
